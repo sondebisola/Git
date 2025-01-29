@@ -1,0 +1,10 @@
+# About Branches
+
+Start with a common base, the initial source for the project. At one point, the code is branched while new features are developed.
+both branches can be  undergoing changes. 
+When the two streams of work are ready to merge, each branch's code is identified as a tip, and the two tips are merged into a third combined branch.
+Developers work on source files in a branch. Commit indicates that the developer is convinced that the code represents a stable platform for the feature or set of features being developed.
+ The developer can choose to commit to the current branch or create a new branch.
+
+
+A pull request makes the proposed committed changes available for others to review and use. 
