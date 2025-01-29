@@ -7,7 +7,8 @@ git add to move the changes from the working directory to the staging area,
 git commit to commit the changes to the project,
 git log to browse the previous changes,
 git branch to create a new branch,
-git checkout to switch between the existing branches,
+git checkout to switch between the existing branches
+    git checkout newbranch name
 git merge to update the branches with the master branch, 
 git status to see the status of your working directory.
 
